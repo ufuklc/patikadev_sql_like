@@ -1,0 +1,2 @@
+select country from country 
+where country like 'A%' and country like '%a';
